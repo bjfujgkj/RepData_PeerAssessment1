@@ -1,4 +1,3 @@
-RepData peer Assesssment 1
 
 Loading and preprocessing the data
 
